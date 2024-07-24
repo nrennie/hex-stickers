@@ -12,6 +12,11 @@ Hex stickers for various R packages and generative art works.
 
 ## Generative art
 
+### Shatter
+
+<img src="/Rtistry/shatter.png" width="30%">
+
+
 ### Wander
 
 <img src="/Rtistry/wander.png" width="30%">
