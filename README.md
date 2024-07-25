@@ -10,14 +10,13 @@ Hex stickers for R packages and generative art.
 
 <table>
 <tr>
-<table>
-<tr>
 <td>
 <img src="/ggflowchart/logo.png" width="100%"><br /><a href="https://github.com/nrennie/ggflowchart"><p align="center">ggflowchart</p></a>
 </td>
 <td>
 <img src="/PrettyCols/logo.png" width="100%"><br /><a href="https://github.com/nrennie/PrettyCols"><p align="center">PrettyCols</p></a>
 </td>
+<td>
 <img src="/RSSthemes/logo.png" width="100%"><br /><a href="https://github.com/nrennie/RSSthemes"><p align="center">RSSthemes</p></a>
 </td>
 </tr>
@@ -94,6 +93,9 @@ Hex stickers for R packages and generative art.
 </td>
 <td>
 <img src="/Rtistry/tiles.png" width="100%"><br /><p align="center">Tiles</p>
+</td>
+<td>
+<img src="/Rtistry/fractals.png" width="100%"><br /><p align="center">Fractals</p>
 </td>
 </tr>
 </table>
