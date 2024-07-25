@@ -16,15 +16,6 @@ Hex stickers for R packages and generative art.
 <img src="/ggflowchart/logo.png" width="100%"><br /><a href="https://github.com/nrennie/ggflowchart"><p align="center">ggflowchart</p></a>
 </td>
 <td>
-<img src="/usefunc/logo.png" width="100%"><br /><a href="https://github.com/nrennie/usefunc"><p align="center">usefunc</p></a>
-</td>
-<td>
-<img src="/RSSthemes/logo.png" width="100%"><br /><a href="https://github.com/nrennie/RSSthemes"><p align="center">RSSthemes</p></a>
-</td>
-</tr>
-</table>
-
-<td>
 <img src="/PrettyCols/logo.png" width="100%"><br /><a href="https://github.com/nrennie/PrettyCols"><p align="center">PrettyCols</p></a>
 </td>
 <img src="/RSSthemes/logo.png" width="100%"><br /><a href="https://github.com/nrennie/RSSthemes"><p align="center">RSSthemes</p></a>
@@ -47,6 +38,37 @@ Hex stickers for R packages and generative art.
 </td>
 </tr>
 </table>
+
+
+<table>
+<tr>
+<td>
+<img src="/ggalttext/logo.png" width="100%"><br /><a href="https://github.com/nrennie/ggalttext"><p align="center">ggalttext</p></a>
+</td>
+<td>
+<img src="/ggtextcircle/logo.png" width="100%"><br /><a href="https://github.com/nrennie/ggtextcircle"><p align="center">ggtextcircle</p></a>
+</td>
+<td>
+<img src="/LondonMarathon/logo.png" width="100%"><br /><a href="https://github.com/nrennie/LondonMarathon"><p align="center">LondonMarathon</p></a>
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td>
+<img src="/simnetdemand/logo.png" width="100%"><br /><a href="https://github.com/nrennie/simnetdemand"><p align="center">simnetdemand</p></a>
+</td>
+<td>
+<img src="/usefunc/logo.png" width="100%"><br /><a href="https://github.com/nrennie/usefunc"><p align="center">usefunc</p></a>
+</td>
+<td>
+<img src="/WBLifeExpectancy/logo.png" width="100%"><br /><a href="https://github.com/nrennie/WBLifeExpectancy"><p align="center">WBLifeExpectancy</p></a>
+</td>
+</tr>
+</table>
+
 
 
 ## Generative art
