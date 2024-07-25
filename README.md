@@ -1,9 +1,5 @@
 # Hex stickers
 
-Hex stickers for R packages and generative art.
-
-> Code for hex stickers for other R packages will be coming soon!
-
 ## R packages
 
 ### CRAN R packages
