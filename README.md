@@ -76,13 +76,13 @@ Hex stickers for R packages and generative art.
 <table>
 <tr>
 <td>
-<img src="/Rtistry/shatter.png" width="120" height="139"><br /><p align="center">Shatter</p>
+<img src="/Rtistry/shatter.png" width="120"><br /><p align="center">Shatter</p>
 </td>
 <td>
-<img src="/Rtistry/random_tessellation.png" width="120" height="139"><br /><p align="center">Tessellation</p>
+<img src="/Rtistry/random_tessellation.png" width="120"><br /><p align="center">Tessellation</p>
 </td>
 <td>
-<img src="/Rtistry/wander.png" width="120" height="139"><br /><p align="center">Wander</p>
+<img src="/Rtistry/wander.png" width="120"><br /><p align="center">Wander</p>
 </td>
 <td>
 <img src="/Rtistry/bullseye.png" width="120"><br /><p align="center">Bullseye</p>
