@@ -12,6 +12,11 @@ Hex stickers for various R packages and generative art works.
 
 ## Generative art
 
+### Random Tessellation
+
+<img src="/Rtistry/random_tessellation.png" width="30%">
+
+
 ### Shatter
 
 <img src="/Rtistry/shatter.png" width="30%">

@@ -80,3 +80,31 @@ sticker(img_cropped,
   asp = 1,
   filename = "Rtistry/shatter.png"
 )
+
+
+# Random tessellation -----------------------------------------------------
+
+p <- aRt::random_tessellation(
+  n_x = 17, n_y = 17,
+  bg_col = "transparent",
+  deg_jitter = 0.3,
+  linewidth = 1.2,
+  line_col = "#62d1ff",
+  col_palette = PrettyCols::prettycols("Neon")) +
+  theme(plot.margin = margin(-20, -20, -20, -20))
+tmp <- tempfile()
+ggplot2::ggsave(tmp, p, device = "png", width = 4, height = 4)
+img_cropped <- cropcircles::crop_hex(tmp)
+sticker(img_cropped,
+        package = "",
+        s_x = 1,
+        s_y = 1,
+        s_width = 0.85,
+        s_height = 0.85,
+        h_fill = "#62d1ff",
+        h_color = "#62d1ff",
+        h_size = 1.3,
+        asp = 1,
+        filename = "Rtistry/random_tessellation.png"
+)
+
