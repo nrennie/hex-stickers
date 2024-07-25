@@ -21,7 +21,6 @@ p <- ggplot() +
   scale_y_continuous(expand = expansion(0, 0),
                      limits = c(0, 4)) +
   theme_void() +
-  #theme_transparent() +
   theme(
     axis.line = element_line(colour = "#005573", linewidth = 0.8,
                              lineend = "square")
