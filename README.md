@@ -11,13 +11,13 @@ Hex stickers for R packages and generative art.
 <table>
 <tr>
 <td>
-<img src="/ggflowchart/logo.png" width="100%"><br /><a href="https://github.com/nrennie/ggflowchart"><p align="center">ggflowchart</p></a>
+<img src="/ggflowchart/logo.png" width="120" height="139"><br /><a href="https://github.com/nrennie/ggflowchart"><p align="center">ggflowchart</p></a>
 </td>
 <td>
-<img src="/PrettyCols/logo.png" width="100%"><br /><a href="https://github.com/nrennie/PrettyCols"><p align="center">PrettyCols</p></a>
+<img src="/PrettyCols/logo.png" width="120" height="139"><br /><a href="https://github.com/nrennie/PrettyCols"><p align="center">PrettyCols</p></a>
 </td>
 <td>
-<img src="/RSSthemes/logo.png" width="100%"><br /><a href="https://github.com/nrennie/RSSthemes"><p align="center">RSSthemes</p></a>
+<img src="/RSSthemes/logo.png" width="120" height="139"><br /><a href="https://github.com/nrennie/RSSthemes"><p align="center">RSSthemes</p></a>
 </td>
 </tr>
 </table>
@@ -75,13 +75,13 @@ Hex stickers for R packages and generative art.
 <table>
 <tr>
 <td>
-<img src="/Rtistry/shatter.png" width="100%"><br /><p align="center">Shatter</p>
+<img src="/Rtistry/shatter.png" width="120" height="139"><br /><p align="center">Shatter</p>
 </td>
 <td>
-<img src="/Rtistry/random_tessellation.png" width="100%"><br /><p align="center">Tessellation</p>
+<img src="/Rtistry/random_tessellation.png" width="120" height="139"><br /><p align="center">Tessellation</p>
 </td>
 <td>
-<img src="/Rtistry/wander.png" width="100%"><br /><p align="center">Wander</p>
+<img src="/Rtistry/wander.png" width="120" height="139"><br /><p align="center">Wander</p>
 </td>
 </tr>
 </table>
