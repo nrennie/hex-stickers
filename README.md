@@ -9,10 +9,10 @@ Hex stickers for various R packages and generative art works.
 <table>
 <tr>
 <td>
-<img src="/PrettyCols/logo" width="20%"><br /><a href="https://github.com/nrennie/PrettyCols">PrettyCols</a>
+<img src="/PrettyCols/logo.png" width="100%"><br /><a href="https://github.com/nrennie/PrettyCols">PrettyCols</a>
 </td>
 <td>
-<img src="/usefunc/logo" width="20%"><br /><a href="https://github.com/nrennie/usefunc">usefunc</a>
+<img src="/usefunc/logo.png" width="100%"><br /><a href="https://github.com/nrennie/usefunc">usefunc</a>
 </td>
 </tr>
 </table>
@@ -22,19 +22,19 @@ Hex stickers for various R packages and generative art works.
 <table>
 <tr>
 <td>
-<img src="/Rtistry/random_tessellation.png" width="20%"><br /><p>Random Tessellation</p>
+<img src="/Rtistry/random_tessellation.png" width="100%"><br /><p>Random Tessellation</p>
 </td>
 <td>
-<img src="/Rtistry/shatter.png" width="20%"><br /><p>Shatter</p>
+<img src="/Rtistry/shatter.png" width="100%"><br /><p>Shatter</p>
 </td>
 <td>
-<img src="/Rtistry/wander.png" width="20%"><br /><p>Wander</p>
+<img src="/Rtistry/wander.png" width="100%"><br /><p>Wander</p>
 </td>
 <td>
-<img src="/Rtistry/bullseye.png" width="20%"><br /><p>Bullseye</p>
+<img src="/Rtistry/bullseye.png" width="100%"><br /><p>Bullseye</p>
 </td>
 <td>
-<img src="/Rtistry/tiles.png" width="20%"><br /><p>Tiles</p>
+<img src="/Rtistry/tiles.png" width="100%"><br /><p>Tiles</p>
 </td>
 </tr>
 </table>
