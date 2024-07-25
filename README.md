@@ -11,19 +11,13 @@ Hex stickers for R packages and generative art.
 <table>
 <tr>
 <td>
-<img src="/ggflowchart/logo.png" width="120" height="139"><br /><a href="https://github.com/nrennie/ggflowchart">ggflowchart</a>
+<img src="/ggflowchart/logo.png" width="120"><br /><a href="https://github.com/nrennie/ggflowchart">ggflowchart</a>
 </td>
 <td>
-<img src="/PrettyCols/logo.png" width="120" height="139"><br /><a href="https://github.com/nrennie/PrettyCols">PrettyCols</a>
+<img src="/PrettyCols/logo.png" width="120"><br /><a href="https://github.com/nrennie/PrettyCols">PrettyCols</a>
 </td>
 <td>
-<img src="/RSSthemes/logo.png" width="120" height="139"><br /><a href="https://github.com/nrennie/RSSthemes">RSSthemes</a>
-</td>
-<td>
-<img src="/RSSthemes/logo.png" width="120" height="139"><br /><a href="https://github.com/nrennie/RSSthemes">RSSthemes</a>
-</td>
-<td>
-<img src="/RSSthemes/logo.png" width="120" height="139"><br /><a href="https://github.com/nrennie/RSSthemes">RSSthemes</a>
+<img src="/RSSthemes/logo.png" width="120"><br /><a href="https://github.com/nrennie/RSSthemes">RSSthemes</a>
 </td>
 </tr>
 </table>
