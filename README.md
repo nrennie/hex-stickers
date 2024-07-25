@@ -6,10 +6,14 @@ Hex stickers for R packages and generative art.
 
 ## R packages
 
+### CRAN R packages
+
+<table>
+<tr>
 <table>
 <tr>
 <td>
-<img src="/PrettyCols/logo.png" width="100%"><br /><a href="https://github.com/nrennie/PrettyCols"><p align="center">PrettyCols</p></a>
+<img src="/ggflowchart/logo.png" width="100%"><br /><a href="https://github.com/nrennie/ggflowchart"><p align="center">ggflowchart</p></a>
 </td>
 <td>
 <img src="/usefunc/logo.png" width="100%"><br /><a href="https://github.com/nrennie/usefunc"><p align="center">usefunc</p></a>
@@ -19,6 +23,31 @@ Hex stickers for R packages and generative art.
 </td>
 </tr>
 </table>
+
+<td>
+<img src="/PrettyCols/logo.png" width="100%"><br /><a href="https://github.com/nrennie/PrettyCols"><p align="center">PrettyCols</p></a>
+</td>
+<img src="/RSSthemes/logo.png" width="100%"><br /><a href="https://github.com/nrennie/RSSthemes"><p align="center">RSSthemes</p></a>
+</td>
+</tr>
+</table>
+
+### GitHub R packages
+
+<table>
+<tr>
+<td>
+<img src="/aRt/logo.png" width="100%"><br /><a href="https://github.com/nrennie/aRt"><p align="center">aRt</p></a>
+</td>
+<td>
+<img src="/aRtData/logo.png" width="100%"><br /><a href="https://github.com/nrennie/aRtData"><p align="center">aRtData</p></a>
+</td>
+<td>
+<img src="/funcnetout/logo.png" width="100%"><br /><a href="https://github.com/nrennie/funcnetout"><p align="center">funcnetout</p></a>
+</td>
+</tr>
+</table>
+
 
 ## Generative art
 
