@@ -30,6 +30,11 @@ Hex stickers for various R packages and generative art works.
 <td>
 <img src="/Rtistry/wander.png" width="100%"><br /><p align="center">Wander</p>
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td>
 <img src="/Rtistry/bullseye.png" width="100%"><br /><p align="center">Bullseye</p>
 </td>
@@ -38,3 +43,4 @@ Hex stickers for various R packages and generative art works.
 </td>
 </tr>
 </table>
+
