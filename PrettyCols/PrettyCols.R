@@ -11,6 +11,7 @@ showtext_opts(dpi = 300)
 p <- aRt::tiles(
   col_palette = PrettyCols::prettycols("Dark")
 )
+tmp <- tempfile()
 ggplot2::ggsave(tmp, p, device = "png", width = 4, height = 4)
 img_cropped <- cropcircles::crop_hex(tmp)
 sticker(img_cropped,
