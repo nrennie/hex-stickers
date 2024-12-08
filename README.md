@@ -11,6 +11,10 @@
 <img src="/ggflowchart/logo.png" width="120">
 </td>
 <td>
+<a href="https://github.com/nrennie/messy"><p align="center">messy</p></a><br />
+<img src="/messy/logo.png" width="120">
+</td>
+<td>
 <a href="https://github.com/nrennie/PrettyCols"><p align="center">PrettyCols</p></a><br />
 <img src="/PrettyCols/logo.png" width="120">
 </td>
@@ -52,8 +56,8 @@
 <img src="/LondonMarathon/logo.png" width="120">
 </td>
 <td>
-<a href="https://github.com/nrennie/messy"><p align="center">messy</p></a><br />
-<img src="/messy/logo.png" width="120">
+<a href="https://github.com/nrennie/national-highways"><p align="center">national.highways</p></a><br />
+<img src="/national-highways/logo.png" width="120">
 </td>
 <td>
 <a href="https://github.com/nrennie/simnetdemand"><p align="center">simnetdemand</p></a><br />
@@ -66,12 +70,6 @@
 <td>
 <a href="https://github.com/nrennie/WBLifeExpectancy"><p align="center">WBLifeExpectancy</p></a><br />
 <img src="/WBLifeExpectancy/logo.png" width="120">
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/nrennie/national-highways"><p align="center">national.highways</p></a><br />
-<img src="/national-highways/logo.png" width="120">
 </td>
 </tr>
 </table>
